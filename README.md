@@ -52,3 +52,5 @@ Ao final do projeto será entregue:
 - Documentação básica do projeto
 - Apresentação do sistema
 
+🔗 **Acesse a aplicação online:** [projeto-theta-flame.vercel.app](https://projeto-theta-flame.vercel.app/)
+⚠️ *Nota de desempenho: Como o back-end está hospedado em um ambiente de nuvem gratuito (Render), o servidor entra em repouso após períodos de ociosidade. O primeiro carregamento na página pode levar cerca de 1 a 2 minutos para "acordar" a API e trazer as notícias do banco. Os acessos seguintes serão instantâneos.*
