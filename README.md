@@ -51,14 +51,4 @@ Ao final do projeto será entregue:
 - Site funcional hospedado online
 - Documentação básica do projeto
 - Apresentação do sistema
-## Equipe do Projeto
-O projeto será desenvolvido por uma equipe de 4 integrantes, com divisão de
-responsabilidades:
-- Back-end (lógica e integração com API):
-Samir e Allison
-- Front-end (interface e experiência do usuário):
-Pedro e Filipe
-- Considerações Finais
-O projeto tem como foco a prática de desenvolvimento web utilizando Python no
-back-end e integração com API externa, permitindo consolidar conhecimentos
-adquiridos em sala de aula.
+
